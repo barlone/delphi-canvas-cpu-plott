@@ -1,7 +1,7 @@
 # Plotting CPU Usage with Canvas
-As part of my humbly studies on Canvas Painting with Delphi + Firemonkey.
+As part of my humble studies on Canvas Painting with Delphi + Firemonkey.
 
 ![Example](example.gif)
 
-This project is far of being perfect and my purpose was kind of research. Feel free to share and use as you desire!
+This project is far from being perfect and my purpose was kind of research. Feel free to share and use it as you desire!
 
